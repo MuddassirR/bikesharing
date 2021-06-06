@@ -18,3 +18,13 @@ Using Python and Pandas functions, you’ll convert the "tripduration" column fr
 
 ## Results for Deliverable 1
 ![Code for Deliverable 1](https://github.com/MuddassirR/bikesharing/blob/main/deliverabe1.png)
+
+## Deliverable 2:
+Using Tableau, create visualizations that show:
+
+- How long bikes are checked out for all riders and genders.
+- How many trips are taken by the hour for each day of the week, for all riders and genders.
+- A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
+## Results for Deliverable 2:
+The completed data visualization story can be found [here](https://public.tableau.com/app/profile/muddassir.raza/viz/NYCbikesharingChallenge/TOPSTATIONS).
