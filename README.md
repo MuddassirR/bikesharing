@@ -27,9 +27,9 @@ Using Tableau, create visualizations that show:
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 ## Results for Deliverable 2:
-The completed data visualization story can be found [here](https://public.tableau.com/app/profile/muddassir.raza/viz/BikeSharing_16229740475760/FINALSTORYREPORT).
-The data visualization story prior to starting the challenge (module) can be found [here](https://public.tableau.com/app/profile/muddassir.raza/viz/NYCStory_16229673704850/NYCStory)
+**The completed data visualization story can be found [here](https://public.tableau.com/app/profile/muddassir.raza/viz/BikeSharing_16229740475760/FINALSTORYREPORT).**
+The data visualization story prior to starting the challenge (module) can be found [here](https://public.tableau.com/app/profile/muddassir.raza/viz/NYCStory_16229673704850/NYCStory). There is a small description provided for each visualization as a caption. 
 
 ## Summary
 
-
+We see from our overall analysis that there are over 80% subscribers and 20% customers/non-subcribers. While this number is high, it could be improved by greater marketing techniques in areas with lower subscribers. We also see that majority of riders were males. Normally, we may think this is because males are more comfortable with going out at night alone, but we see that males and females both have the same time peak in the number of rides per day: both genders generally see an increase in rides between 1 to 5 or 7 AM. We also see that stations that tend to have the highest starting trips also tend to have the highest ending trips, indicating that maintenance can be prioritized towards stations who have more trips assuming they require more care. 
