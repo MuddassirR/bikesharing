@@ -27,7 +27,7 @@ Using Tableau, create visualizations that show:
 - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
 
 ## Results for Deliverable 2:
-The completed data visualization story can be found [here](https://public.tableau.com/app/profile/muddassir.raza/viz/NYCbikesharingChallenge/TOPSTATIONS).
+The completed data visualization story can be found [here](https://public.tableau.com/app/profile/muddassir.raza/viz/BikeSharing_16229740475760/FINALSTORYREPORT).
 The data visualization story prior to starting the challenge (module) can be found [here](https://public.tableau.com/app/profile/muddassir.raza/viz/NYCStory_16229673704850/NYCStory)
 
 ## Summary
