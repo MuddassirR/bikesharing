@@ -11,3 +11,10 @@ Show the length of time that bikes are checked out for all riders and genders Sh
 - Deliverable 1: Change Trip Duration to a Datetime Format (Pandas)
 - Deliverable 2: Create Visualizations for the Trip Analysis (Tableau)
 - Deliverable 3: Create a Story and Report for the Final Presentation (README File)
+
+## Deliverable 1:
+
+Using Python and Pandas functions, you’ll convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After you convert the "tripduration" column to a datetime dataytpe, you’ll export the DataFrame as a CSV file to use for the trip analysis in Deliverable 2.
+
+## Results for Deliverable 1
+![Code for Deliverable 1](https://github.com/MuddassirR/bikesharing/blob/main/deliverabe1.png)
